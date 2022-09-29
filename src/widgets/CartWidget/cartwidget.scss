@@ -1,0 +1,38 @@
+.plus{
+position:relative;
+top:40px;
+left:-20px;
+cursor:pointer;
+}
+.subtract{
+    position:relative;
+    top:-15px;
+    left:-20px;
+    cursor:pointer;
+    }
+.quantity{
+    position: relative;
+    top:80px;
+    left:-15px;  
+}
+.badge{
+    width:25px;
+    height:25px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color:white;
+    position:relative;
+    top:-10px
+}
+.box{
+    width:1rem;
+    height:1rem;
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+
+}
